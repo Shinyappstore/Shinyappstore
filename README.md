@@ -2,7 +2,7 @@
 
 🔭 A platform to showcase and grow various shiny applications made with the shiny R package. 
 
-👯 You or someone you know may have created a number of shiny apps. You don't where how to get to them easily and you are not able to gauge the users who use them frequently. We have created an app store like there is for Android and Apple and Windows stores.
+👯 You or someone you know may have created a number of shiny apps. You don't know where or how to get to them easily, and you are not able to gauge the usage or popularity of the apps. We have created an app store like there is for Android and Apple and Windows stores.
 
 📫 Submit and explore applications from various categories. Add verified apps to your personal library, and use the apps with ease.
 
