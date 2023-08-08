@@ -1,3 +1,5 @@
+[![](https://cdn.shinyappstore.com/img/rockybilly.regular_sas.webp)](https://shinyappstore.com)
+
 # About the Shiny App Store platform 👋⚡
 
 🔭 A platform to showcase and grow various shiny applications made with the shiny R package. 
