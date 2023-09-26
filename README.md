@@ -16,3 +16,5 @@
 
   - [Use other users shiny applications](https://shinyappstore.com/search/apps)
 
+  - [Contact us, complaints, suggestions](https://github.com/shinyappstore/Contact-us/issues)
+
