@@ -11,15 +11,14 @@
 😄Find well thought-through apps with in-depth description and evaluation by various users.
 
 # Quick links
-
   - [Submit a shiny application for showcase](https://shinyappstore.com/apps-contr?submitnew=y)
-
   - [Use other users shiny applications](https://shinyappstore.com/search/apps)
-
   - [Contact us, complaints, suggestions](https://github.com/shinyappstore/Contact-us/issues)
 
 # Use Apps
+  - [Shiny App Store Web Showcase](https://shinyappstore.com)
 
+# App R codes
   - [countDownTm: A simple countdown timer for use in daily activities](https://github.com/shinyappstore/countDownTm)
   - [SentenceHub: SentenceHub is a Realtime Generative App for Sentences](https://github.com/shinyappstore/SentenceHub)
   - [randomNameGen: Arandom person name and information generator for R](https://github.com/shinyappstore/randomNameGen)
