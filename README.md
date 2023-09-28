@@ -18,3 +18,10 @@
 
   - [Contact us, complaints, suggestions](https://github.com/shinyappstore/Contact-us/issues)
 
+# Use Apps
+
+  - [countDownTm: A simple countdown timer for use in daily activities](https://github.com/shinyappstore/countDownTm)
+  - [SentenceHub: SentenceHub is a Realtime Generative App for Sentences](https://github.com/shinyappstore/SentenceHub)
+  - [randomNameGen: Arandom person name and information generator for R](https://github.com/shinyappstore/randomNameGen)
+  - [dictWords: A Shiny Powered Fast Mini-Dictionary](https://github.com/shinyappstore/dictWords)
+  - [shinyUnitConvert: Seamlessly convert measurements between units](https://github.com/shinyappstore/shinyUnitConvert)
