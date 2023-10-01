@@ -24,3 +24,4 @@
   - [randomNameGen: Arandom person name and information generator for R](https://github.com/shinyappstore/randomNameGen)
   - [dictWords: A Shiny Powered Fast Mini-Dictionary](https://github.com/shinyappstore/dictWords)
   - [shinyUnitConvert: Seamlessly convert measurements between units](https://github.com/shinyappstore/shinyUnitConvert)
+  - [fileComparer: Unleash the Power of Universal File Comparison](https://github.com/shinyappstore/fileComparer)
