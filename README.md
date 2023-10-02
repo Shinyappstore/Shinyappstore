@@ -10,6 +10,8 @@
 
 😄Find well thought-through apps with in-depth description and evaluation by various users.
 
+Write an email: __ask@shinyappstore.com__
+
 # Quick links
   - [Submit a shiny application for showcase](https://shinyappstore.com/apps-contr?submitnew=y)
   - [Use other users shiny applications](https://shinyappstore.com/search/apps)
