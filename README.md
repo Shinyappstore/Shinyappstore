@@ -21,6 +21,7 @@ Write an email: __ask@shinyappstore.com__
   - [Shiny App Store Web Showcase](https://shinyappstore.com)
 
 # App R codes
+  - [simulatr: Simulation of Linear Model Data](https://github.com/shinyappstore/simulatr)
   - [countDownTm: A simple countdown timer for use in daily activities](https://github.com/shinyappstore/countDownTm)
   - [SentenceHub: SentenceHub is a Realtime Generative App for Sentences](https://github.com/shinyappstore/SentenceHub)
   - [randomNameGen: Arandom person name and information generator for R](https://github.com/shinyappstore/randomNameGen)
