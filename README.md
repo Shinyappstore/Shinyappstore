@@ -44,7 +44,7 @@ Write an email: __ask@shinyappstore.com__
 
 
 
-# App R codes
+# Featured App R codes
   - [simulatr: Simulation of Linear Model Data](https://github.com/shinyappstore/simulatr)
   - [countDownTm: A simple countdown timer for use in daily activities](https://github.com/shinyappstore/countDownTm)
   - [SentenceHub: SentenceHub is a Realtime Generative App for Sentences](https://github.com/shinyappstore/SentenceHub)
