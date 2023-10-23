@@ -40,6 +40,8 @@ Write an email: __ask@shinyappstore.com__
 [![](https://shiny-app-store3.s3.amazonaws.com/approvedapp/s042_kwb1gFlRXddBoVFnPHfduiXnxsAncVxypeRGvmGo_logo_18.jpg)](https://shinyappstore.com/search/apps)
 [![](https://shiny-app-store3.s3.amazonaws.com/approvedapp/s036_hnlahTWkNcADJtHruISgQiHIJB6UFKFnz777mSqA_logo_18.jpg)](https://shinyappstore.com/search/apps)
 [![](https://shiny-app-store3.s3.amazonaws.com/approvedapp/s953_6z4W1Ni3iesDfV3iUHAd2vqsqQIQNcX2aPGUeoZa_logo_379.jpg)](https://shinyappstore.com/search/apps)
+[![](https://shiny-app-store3.s3.amazonaws.com/approvedapp/s918_rmasZLVgXuHN3l7JO46EkBzapshnfjXzG0KuKsPc_logo_39.jpg)](https://shinyappstore.com/search/apps)
+[![](https://shiny-app-store3.s3.amazonaws.com/approvedapp/s186_vXJ8MhNNxD6OhHSRZLgGpZrZ5XLMY5NQk4qgNO5W_logo_28.jpg)](https://shinyappstore.com/search/apps)
 
 
 
