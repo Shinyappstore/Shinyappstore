@@ -47,6 +47,7 @@ Write an email: __ask@shinyappstore.com__
 [![](https://shiny-app-store3.s3.amazonaws.com/approvedapp/s369_jEHEYStGB4tLrAYbAHg0TfBF93KfuOuXhkJFWXQU_logo_18.jpg)](https://shinyappstore.com/search/apps)
 [![](https://shiny-app-store3.s3.amazonaws.com/approvedapp/s100_rmasZLVgXuHN3l7JO46EkBzapshnfjXzG0KuKsPc_logo_39.jpg)](https://shinyappstore.com/search/apps)
 [![](https://shiny-app-store3.s3.amazonaws.com/approvedapp/s704_JI3NgrVt46qgnhg1xa2YxbKNFJENUKG37vQCFstr_logo_283.jpg)](https://shinyappstore.com/search/apps)
+[![](https://shiny-app-store3.s3.amazonaws.com/approvedapp/s417_mGYPQoGBFMNEo29O3tA0DT2AOeLDYdkqd4iawwBV_logo_39.jpg)](https://shinyappstore.com/search/apps)
 
 # Featured App R codes
   - [simulatr: Simulation of Linear Model Data](https://github.com/shinyappstore/simulatr)
